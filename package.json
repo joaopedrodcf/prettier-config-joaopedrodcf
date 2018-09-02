@@ -5,6 +5,7 @@
     "main": "./src/index.js",
     "author": "joaopedrodcf",
     "license": "MIT",
+    "repository": "github:joaopedrodcf/prettier-config-joaopedrodcf",
     "devDependencies": {
         "eslint": "^5.5.0",
         "eslint-config-airbnb": "17.1.0",
