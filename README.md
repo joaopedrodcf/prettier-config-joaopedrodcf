@@ -1,6 +1,8 @@
 # prettier-config-joaopedrodcf
 A standard prettier configuration to use througout javascript projects
 
+[![npm version](https://badge.fury.io/js/prettier-config-joaopedrodcf.svg)](https://badge.fury.io/js/prettier-config-joaopedrodcf)
+
 ## Getting Started
 
 - Install
