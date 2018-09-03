@@ -11,7 +11,7 @@ A standard prettier configuration to use througout javascript projects
 yarn add prettier-config-joaopedrodcf --dev
 ```
 
-- Now create a file named: prettier.config.js
+- Now create a file named: .prettier.js
 
 ```
 module.exports = require('prettier-config-joaopedrodcf');
