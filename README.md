@@ -11,7 +11,7 @@ A standard prettier configuration to use througout javascript projects
 npx install-peerdeps --dev prettier-config-joaopedrodcf
 ```
 
-- Now create a file named: .prettier.js and insert this code there
+- Now create a file named: .prettierrc.js and insert this code there
 
 ```js
 module.exports = require('prettier-config-joaopedrodcf');
