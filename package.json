@@ -9,10 +9,10 @@
     "scripts": {
         "lint": "eslint src"
     },
-    "devDependencies": {
-        "prettier": "^1.16.4"
+    "dependencies": {
+        "prettier": "^1.18.2"
     },
     "peerDependencies": {
-        "prettier": "^1.16.4"
+        "prettier": "^1.18.2"
     }
 }
