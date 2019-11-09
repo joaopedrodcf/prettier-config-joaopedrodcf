@@ -1,6 +1,6 @@
 {
     "name": "prettier-config-joaopedrodcf",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "description": "A standard prettier configuration to use througout javascript projects",
     "main": "./src/index.js",
     "author": {
